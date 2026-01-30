@@ -1,0 +1,9 @@
+int _a, _b
+read(_a)
+read(_b)
+while _b != 0 {
+    _copy_b = _b
+    _b = _a % _b
+    _a = _b
+}
+print(_a)

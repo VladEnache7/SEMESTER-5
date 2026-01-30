@@ -1,0 +1,28 @@
+go
+{
+    $int _a;
+    int _b;
+    int _c;
+    _a=+2;
+    _a=-10;
+    _c=154;
+    int _a123;
+    int _acb;
+    citire(_a);
+    citire(_b);
+    citire(_c);
+    int _max;
+    if(_a>_b and _a>_c){
+        _max=_a;
+    }
+    if(_b>_a and _b>_c){
+        _max=_b;
+    }
+    if(_c>_a and _c>_b){
+        _max=_c;
+    }
+    while(_a==_b or _b!=_c){
+        afisare("hello");
+    }
+    afisare(_max);
+}

@@ -1,0 +1,44 @@
+%{
+#include "y.tab.h"
+extern int yylval;
+%}
+
+digit       [0-9]
+letter      [a-zA-Z]
+identifier  _{letter}({letter}|{digit})*
+constant    {digit}+
+type        "int"|"char"|"string"|"vector"
+relational_op  "=="|"!="|"<="|">="|"<"|">"
+expression_op  "+"|"-"
+term_op     "*"|"/"|"%"
+
+%%
+
+"null"          { yylval = NULL; return NULL; }
+"="             { yylval = ASSIGN; return ASSIGN; }
+"("             { yylval = LPAREN; return LPAREN; }
+")"             { yylval = RPAREN; return RPAREN; }
+"{"             { yylval = LBRACE; return LBRACE; }
+"}"             { yylval = RBRACE; return RBRACE; }
+"["             { yylval = LBRACKET; return LBRACKET; }
+"]"             { yylval = RBRACKET; return RBRACKET; }
+"read"          { yylval = READ; return READ; }
+"print"         { yylval = PRINT; return PRINT; }
+"for"           { yylval = FOR; return FOR; }
+"while"         { yylval = WHILE; return WHILE; }
+"if"            { yylval = IF; return IF; }
+"else"          { yylval = ELSE; return ELSE; }
+{type}          { yylval = TYPE; return TYPE; }
+{identifier}    { yylval = IDENTIFIER; return IDENTIFIER; }
+{constant}      { yylval = CONSTANT; return CONSTANT; }
+{relational_op} { yylval = REL_OP; return REL_OP; }
+{expression_op} { yylval = EXPR_OP; return EXPR_OP; }
+{term_op}       { yylval = TERM_OP; return TERM_OP; }
+[ \t\n]+        { /* ignore whitespace */ }
+.               { /* ignore any other character */ }
+
+%%
+
+int yywrap() {
+    return 1;
+}

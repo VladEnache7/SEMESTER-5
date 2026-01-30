@@ -1,0 +1,7 @@
+int 1_a = 5
+if _a > 0 {
+    print("Positive")
+}
+else {
+    print("Negative")
+}

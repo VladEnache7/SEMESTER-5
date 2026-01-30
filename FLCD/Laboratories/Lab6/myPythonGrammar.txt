@@ -1,0 +1,25 @@
+N = program statement_list statement declaration_stmt assignment_stmt io_stmt if_stmt while_stmt for_stmt relational_op condition expression expression_op term term_op factor identifier digit letter type vector_decl a
+E = null = < <= == != => > + - * / % ( ) { } } [ ] read print for while if else vector int char string constant _ a
+S = program
+P =
+program -> null | statement_list | statement
+statement_list -> statement | statement_list statement
+statement -> declaration_stmt | assignment_stmt | io_stmt | if_stmt | while_stmt | for_stmt
+declaration_stmt -> type identifier | type identifier = expression
+assignment_stmt -> identifier = identifier + identifier
+io_stmt -> read ( identifier ) | print ( identifier )
+if_stmt -> if condition { statement_list } | if condition { statement_list } else { statement_list }
+while_stmt -> while condition { statement_list }
+for_stmt -> for statement condition statement { statement_list }
+condition -> expression relational_op expression
+expression -> term | term expression_op expression
+expression_op -> + | -
+term -> factor | term term_op factor
+term_op -> * | / | %
+factor -> ( expression ) | identifier | constant
+identifier -> letter | _ | letter identifier | digit identifier
+digit -> 0 | ... | 9
+relational_op -> = | < | <= | == | != | => | >
+type -> int | char | string | vector
+vector_decl -> vector ( type ) identifier
+letter -> a

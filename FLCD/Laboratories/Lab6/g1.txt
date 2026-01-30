@@ -1,0 +1,6 @@
+N = A B
+E = a b
+S = A
+P =
+A -> a | b | a A | b A
+B -> a | B

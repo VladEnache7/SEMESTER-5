@@ -1,0 +1,21 @@
+- <program> ::= null | <statement-list>
+- <statement-list> ::= <statement> | <statement-list> <statement>
+- <statement> ::= <declaration statement> | <assignment statement> | <io statement> | <if statement> | <while statement> | <for statement>
+- <for statement> ::= for <statement>, <condition>, <statement> { <statement-list> }
+- <relational operator> ::= = | < | <= | == | != | => | >
+- <while statement> ::= while <condition>  { <statement-list> }
+- <if statement> ::= if <condition> { <statement-list> } | if <condition>  {<statement-list>} else {<statement-list>}
+- <io statement> ::= read(<identifier>) | print(<identifier>)
+- <assignment statement> ::= <identifier> = <expression>
+- <vector declaration> ::= vector(<type>) <identifier>
+- <declaration statement> ::= <type> <identifier>  | <type> <identifier> = <expression>
+- <condition> ::= <expression> <relational operator> <expression>
+- <expression> ::= <expression> <expression operator> <term> | <term>
+- <expression operator> ::= + | -
+- <term> ::= <term> <term operator> <factor> | <factor>
+- <term operator> ::= * | / | %
+- <factor> ::= (<expression>) | <identifier> | <constant>
+- <identifier> ::= _ | <identifier> <letter> | <identifier> <digit>
+- <digit> = 0 | … | 9
+- <letter> = a | … | z | A | … | Z
+- <type> ::= int | char | string | vector
