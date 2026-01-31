@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnnimatedMoviesApp</string>
+    <string name="title_activity_edit_movie_page2">EditMoviePage2</string>
+</resources>
