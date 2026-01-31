@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\bin\Debug\net8.0\ParallelizingTechniques.exe
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\bin\Debug\net8.0\ParallelizingTechniques.deps.json
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\bin\Debug\net8.0\ParallelizingTechniques.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\bin\Debug\net8.0\ParallelizingTechniques.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\bin\Debug\net8.0\ParallelizingTechniques.pdb
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ParallelizingTechniques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ParallelizingTechniques.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ParallelizingTechniques.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ParallelizingTechniques.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ParallelizingTechniques.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\refint\ParallelizingTechniques.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ParallelizingTechniques.pdb
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ParallelizingTechniques.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelizingTechniques\obj\Debug\net8.0\ref\ParallelizingTechniques.dll

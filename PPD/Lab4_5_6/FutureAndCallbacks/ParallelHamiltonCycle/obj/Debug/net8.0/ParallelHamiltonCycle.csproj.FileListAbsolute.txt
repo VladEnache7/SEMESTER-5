@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\bin\Debug\net8.0\ParallelHamiltonCycle.exe
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\bin\Debug\net8.0\ParallelHamiltonCycle.deps.json
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\bin\Debug\net8.0\ParallelHamiltonCycle.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\bin\Debug\net8.0\ParallelHamiltonCycle.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\bin\Debug\net8.0\ParallelHamiltonCycle.pdb
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ParallelHamiltonCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ParallelHamiltonCycle.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ParallelHamiltonCycle.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ParallelHamiltonCycle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ParallelHamiltonCycle.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\refint\ParallelHamiltonCycle.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ParallelHamiltonCycle.pdb
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ParallelHamiltonCycle.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\ParallelHamiltonCycle\obj\Debug\net8.0\ref\ParallelHamiltonCycle.dll

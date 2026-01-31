@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\bin\Debug\net8.0\FutureAndCallbacks.exe
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\bin\Debug\net8.0\FutureAndCallbacks.deps.json
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\bin\Debug\net8.0\FutureAndCallbacks.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\bin\Debug\net8.0\FutureAndCallbacks.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\bin\Debug\net8.0\FutureAndCallbacks.pdb
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\FutureAndCallbacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\FutureAndCallbacks.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\FutureAndCallbacks.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\FutureAndCallbacks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\FutureAndCallbacks.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\refint\FutureAndCallbacks.dll
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\FutureAndCallbacks.pdb
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\FutureAndCallbacks.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\SEMESTER_5\ParallelAndDistributedProgramming\lab4\FutureAndCallbacks\FutureAndCallbacks\obj\Debug\net8.0\ref\FutureAndCallbacks.dll
